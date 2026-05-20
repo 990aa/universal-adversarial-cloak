@@ -32,6 +32,7 @@ PINNED_RUNTIME_DEPENDENCIES: tuple[tuple[str, str], ...] = (
     ("numpy", "1.26.4"),
     ("scikit-image", "0.24.0"),
     ("gradio", "6.12.0"),
+    ("hf_xet", "1.4.3"),
     ("huggingface-hub", "0.36.2"),
     ("transformers", "4.41.2"),
     ("pytorch-msssim", "1.0.0"),
